@@ -1,0 +1,8 @@
+EXPORTS
+    Add @1
+    DllMain @2
+    Mul @3
+    PassParameter @4
+    Sub @5
+    TextFunction @6
+    _Z12SomeFunctionPKc @7

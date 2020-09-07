@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584205420 source:c:\c-projects\dllsample\main.cpp
+	"main.h"
+
+1599211666 c:\c-projects\dllsample\main.h
+	<windows.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599508567 source:c:\c-projects\libconnectpms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
